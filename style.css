@@ -13,7 +13,7 @@ body {
 }
 aside {
   width: 370px;
-  background: #082567;
+  background: #08673f;
 }
 .cv-photo {
   margin-top: 25px;
@@ -47,11 +47,11 @@ aside {
 }
 .tech-skills-block {
   margin-top: 47px;
-  margin-left: 40px;
+  margin-left: 38px;
 }
 .soft-skills-block {
   margin-top: 44px;
-  margin-left: 40px;
+  margin-left: 38px;
 }
 main {
   padding: 102px 88px 102px 88px;
@@ -108,14 +108,14 @@ h1 {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  color: #082567;
+  color: #08673f;
 }
 .highlight {
-  color: #082567;
+  color: #08673f;
   font-size: 12px;
 }
 .highlight-second {
-  color: #082567;
+  color: #08673f;
 }
 .job-date {
   font-weight: 400;
